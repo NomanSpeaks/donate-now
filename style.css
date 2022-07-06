@@ -37,3 +37,53 @@ p{
     border: none;
     border-radius: 5px;
 }
+.commom-div{
+    padding: 70px 100px;
+}
+
+.commom-div h1{
+    color: #121212;
+    padding: 0 200px;
+    font-size: 35px;
+}
+
+.common-div p{
+    color: #707070;  
+}
+
+.border-1{
+    text-align: center;
+    border: 2px solid #FAFAFA;
+    width: 60px;
+    height: 60px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 8px;
+}
+.border-2{
+    text-align: center;
+    border: 2px solid #FF5959;
+    width: 60px;
+    height: 60px;
+    background-color: #FFEEEE;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 8px;
+}
+.flex{
+    display: flex; 
+    margin-left: 35%;
+}
+#input-field{
+    color:#B3B3B3;
+    text-align: center;
+}
+.border-3{
+    border: 0 solid #FAFAFA;
+    width: 360px;
+    height: 300px;
+    border-radius: 5px;
+    padding: 5% 2%;
+    margin: 8px;
+}
