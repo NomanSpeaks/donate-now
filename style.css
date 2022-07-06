@@ -48,9 +48,9 @@ p{
 }
 
 .common-div p{
-    color: #707070;  
+    color: #707070;
+   
 }
-
 .border-1{
     text-align: center;
     border: 2px solid #FAFAFA;
@@ -115,39 +115,53 @@ p{
   padding: 6px;
 }
 .subscriber-button{
-    margin-left: -10px;
-    padding: 8px;
+  margin-left: -10px;
+  padding: 8px;
+  text-align: center;
+  background-color: tomato;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+
+.fund{
+    display: flex;
+    justify-content: center;
+
+}
+.fund-1 img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 50px ;
+}
+.fund-1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
     text-align: center;
-    background-color: tomato;
-    border: none;
-    color: white;
-    font-weight: bold;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .fund{
-      display: flex;
-      justify-content: center;
-  
-  }
-  .fund-1 img{
-      width: 200px;
-      height: 200px;
-      padding: 10px;
-      margin: 50px ;
-  }
-  .fund-1 {
-      padding-top: 40px;
-      padding-bottom: 40px;
-      text-align: center;
-  }
-  .non-profit{
-      padding:40px 200px;
-      text-align: center;
-  }
-  footer{
+}
+.non-profit{
+    padding:40px 200px;
+    text-align: center;
+}
+#no-border{
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5%;
+    width: 420px;
+    height: 30px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom-width: thin;
+}
+.commom-div{
+    text-align: center;
+}
+footer{
     text-align: center;
     background-color: #0B0D17;
     padding-top: 10px;
