@@ -87,3 +87,30 @@ p{
     padding: 5% 2%;
     margin: 8px;
 }
+#bg-1{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+#bg-2{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+#bg-3{
+    background-color: #ebe9a6f4;
+}
+.border-3-flex{
+    display: flex; 
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.email-bg{
+    border: 2px solid #FFF4D6;
+    margin: -20px 150px 50px 150px;
+    
+    background-color:  #FFF4D6;
+}
+.email{ padding: 30px 50px;
+    text-align: center;
+}
+.email-input {
+  margin: 20px 0px 20px 20px;
+  padding: 6px;
+}
