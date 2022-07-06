@@ -114,3 +114,36 @@ p{
   margin: 20px 0px 20px 20px;
   padding: 6px;
 }
+.subscriber-button{
+    margin-left: -10px;
+    padding: 8px;
+    text-align: center;
+    background-color: tomato;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .fund{
+      display: flex;
+      justify-content: center;
+  
+  }
+  .fund-1 img{
+      width: 200px;
+      height: 200px;
+      padding: 10px;
+      margin: 50px ;
+  }
+  .fund-1 {
+      padding-top: 40px;
+      padding-bottom: 40px;
+      text-align: center;
+  }
+  .non-profit{
+      padding:40px 200px;
+      text-align: center;
+  }
